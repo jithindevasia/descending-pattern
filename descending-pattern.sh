@@ -1,5 +1,7 @@
-#	This script was written by Jithin Devasia
-#	jithindevasia@gmail.com
+# ------------------------------------------
+# This script was written by Jithin Devasia
+# Email : jithindevasia@gmail.com
+# ------------------------------------------
 
 #!/bin/bash
 echo -n "Enter the number of rows you would like to display the pattern : "
